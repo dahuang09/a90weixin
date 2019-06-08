@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="container">
+
+  <text class='userinfo-nickname'>吴小菲</text>
+  <view class='usermotto'>
+    <text class='user-motto'>Hello World</text>
+  </view>
+
+</view>
